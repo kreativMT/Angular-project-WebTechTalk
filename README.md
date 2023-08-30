@@ -41,3 +41,7 @@ Original can be found at the following link on YouTube: [WebTechTalk](https://ww
 4. Created the following components for the page: header, home, login, movie.
 5. Added the component routing into the app-routing-module.ts, including the redirection route (when there is no path), and the wildcard route when none of the path matches (wildcard has to be the last route always!).
 6. Login component HTML and styling with SCSS.
+7. Font family added in src/styles.scss
+8. Film reel image added and positioned.
+9. Login form HTML and SCSS + Bootstrap classes for the inputs.
+10. Login form button 
