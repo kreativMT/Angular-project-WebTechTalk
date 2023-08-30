@@ -25,3 +25,18 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## This is a project made for educational purposes only. It is for practising Angular framework, which I learning at school. 
+
+## I have to admit, maybe I committed more often than usual, just to have the progress of the project relookable.
+
+Original can be found at the following link on YouTube: [WebTechTalk](https://www.youtube.com/watch?v=sv76HcgjLZM)
+
+# Main things and milestones included in the project:
+
+1. Created the app from CLI with ng.
+2. Installed Bootstrap with npm install bootstrap in the project directory.
+3. Added Bootstrap in the angular.json / styles array.
+4. Created the following components for the page: header, home, login, movie.
+5. Added the component routing into the app-routing-module.ts, including the wildcard route.
