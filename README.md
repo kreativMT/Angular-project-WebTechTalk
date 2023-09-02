@@ -46,3 +46,4 @@ Original can be found at the following link on YouTube: [WebTechTalk](https://ww
 9. Login form HTML and SCSS + Bootstrap classes for the inputs.
 10. Login form button 
 11. Data binding for username and password (NgModel) (import into app.module.ts)
+12. Error message div created and styled.
