@@ -49,3 +49,4 @@ Original can be found at the following link on YouTube: [WebTechTalk](https://ww
 12. Error message div created and styled.
 13. Created "auth" service and enhanced login logic.
 14. Header HTML and design.
+15. Logout logic and auth. 
