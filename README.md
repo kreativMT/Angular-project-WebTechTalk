@@ -47,3 +47,4 @@ Original can be found at the following link on YouTube: [WebTechTalk](https://ww
 10. Login form button 
 11. Data binding for username and password (NgModel) (import into app.module.ts)
 12. Error message div created and styled.
+13. Created "auth" service.
