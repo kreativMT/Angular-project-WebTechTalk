@@ -52,3 +52,4 @@ Original can be found at the following link on YouTube: [WebTechTalk](https://ww
 15. Logout logic and auth.
 16. Home HTML template and design.
 17. JSON files downloaded from GitHub to assets/data folder.
+18. Trending movies JSON data binding and logic.
